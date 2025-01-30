@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sumesh
 
-<!--
-**sumesh-s-dev/sumesh-s-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Student | Full Stack Developer
 
-Here are some ideas to get you started:
+## Skills
+- Java, JavaScript, Python
+- React, Flutter
+- Linux Shell Programming
+- Machine Learning & AI
+- Database Management
+- IoT & Web Development
+- Cybersecurity
+- Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+[LinkedIn](https://www.linkedin.com/in/s-sumesh-759132308/) | [GitHub](https://github.com/sumesh-s-dev)
