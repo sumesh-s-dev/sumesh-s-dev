@@ -1,7 +1,6 @@
 # Sumesh
 
-MCA Student | Full Stack Developer
-
+MCA Student 
 ## Skills
 - Java, JavaScript, Python
 - React, Flutter
@@ -13,4 +12,4 @@ MCA Student | Full Stack Developer
 - Unity
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/s-sumesh-759132308/) | [GitHub](https://github.com/sumesh-s-dev)
+[LinkedIn](https://www.linkedin.com/in/s-sumesh-759132308/) 
