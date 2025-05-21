@@ -2,7 +2,7 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://github.com/sumesh-s-dev/sumesh-s-dev/assets/your-banner-image.gif" alt="Sumesh's Banner" style="border-radius:10px;max-width:100%;"/>
+  <img src="https://raw.githubusercontent.com/sumesh-s-dev/sumesh-s-dev/main/assets/banner.gif" alt="Sumesh's Banner" style="border-radius:10px;max-width:100%;"/>
 </p>
 
 <h1 align="center">
@@ -20,7 +20,7 @@
 
 <!-- 3D Contribution Graph -->
 <p align="center">
-  <img src="https://github.com/sumesh-s-dev/sumesh-s-dev/assets/3dcontrib.gif" alt="3D Contribution Graph" width="700"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="700" alt="3D Contribution Graph"/>
 </p>
 
 ---
@@ -80,9 +80,9 @@ openToWork: true
 
 | Project | Tech Stack | 🔗 |
 | ------- | ----------- | --- |
-| <b>E-Commerce Platform</b> | React, Node.js, MongoDB | <a href="#"><img src="https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white"></a> |
-| <b>AI-Powered Image Recognition</b> | Python, TensorFlow, Flask | <a href="#"><img src="https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white"></a> |
-| <b>Mobile Health Tracker</b> | Flutter, Dart | <a href="#"><img src="https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white"></a> |
+| <b>E-Commerce Platform</b> | React, Node.js, MongoDB | [Repo](https://github.com/sumesh-s-dev/ecommerce-platform) |
+| <b>AI-Powered Image Recognition</b> | Python, TensorFlow, Flask | [Repo](https://github.com/sumesh-s-dev/ai-image-recognition) |
+| <b>Mobile Health Tracker</b> | Flutter, Dart | [Repo](https://github.com/sumesh-s-dev/mobile-health-tracker) |
 
 <!-- Optionally add screenshots, GIFs or links to demos above -->
 
@@ -124,14 +124,5 @@ I built my first computer at 14 and have never stopped tinkering!
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF7DC&center=true&vCenter=true&width=600&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22+-+Alan+Kay" alt="Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF7DC&center=true&vCenter=true&width=600&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22+-+Alan+Kay" alt="Inspirational Quote"/>
 </p>
-
----
-
-<!--
-🌐 Adaptive: Try this in both dark & light mode!
-🚀 Add SVG waves, animated stats, or custom widgets for even more flair.
-👉 Replace # with your real repo/demo links & GIFs.
-🤓 Make it your own: Add "Pinned Repos", "Daily Dev Card", or live visitor map.
--->
