@@ -35,5 +35,5 @@ Student progress tracking and GPA calculation tool
 
 ## Get in Touch
 
-**Email:** sumesh.dev@example.com  
+**Email:** sumesh2003nov5@gmail.com 
 **Location:** Available for remote opportunities
