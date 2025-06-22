@@ -36,4 +36,5 @@ Student progress tracking and GPA calculation tool
 ## Get in Touch
 
 **Email:** sumesh2003nov5@gmail.com 
-**Location:** Available for remote opportunities
+**Location:** Palakkad
+
